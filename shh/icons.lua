@@ -1,5 +1,5 @@
 local list = {
-    traffic = 90408754673535
+    ["traffic"] = 90408754673535
 }   
 
 return list
